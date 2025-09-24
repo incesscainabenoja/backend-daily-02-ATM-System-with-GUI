@@ -44,12 +44,6 @@ npm run dev
 Server will run at:
 http://localhost:3000
 
-Usage
-Enter the demo PIN: yourpin
-Deposit or withdraw money
-See live balance updates + transaction history
-Logout when done
-
 Future Improvements
 - Add multi-user support (each with own balance + PIN)  
 - Add savings goals or budgeting features  
