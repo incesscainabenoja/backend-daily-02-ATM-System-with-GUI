@@ -31,18 +31,25 @@ cd day-02-atm-gui
 ```
 
 2. Install dependencieds
+```
 npm install
+```
 
-3. Set up environment variables
+4. Set up environment variables
 Create a .env file in the root:
 env
+```
 SESSION_SECRET=your_secret_key
 PORT=port
-
+```
 4. Start the server
+```
 npm run dev
+```
 Server will run at:
+```
 http://localhost:3000
+```
 
 Future Improvements
 - Add multi-user support (each with own balance + PIN)  
