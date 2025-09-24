@@ -11,7 +11,6 @@ Features
 - Transaction History
 - Modern black sleek UI with notifications
 
----
 
 🛠 Technologies Used
 - Node.js
@@ -21,7 +20,7 @@ Features
 - Vanilla JS (Frontend)
 - HTML + CSS (Custom UI)
 
----
+
 
 🚀 How to Run
 
@@ -29,6 +28,7 @@ Features
 ```bash
 git clone https://github.com/YOUR_USERNAME/day-02-atm-gui.git
 cd day-02-atm-gui
+```
 
 2. Install dependencieds
 npm install
@@ -37,7 +37,7 @@ npm install
 Create a .env file in the root:
 env
 SESSION_SECRET=your_secret_key
-PORT=
+PORT=port
 
 4. Start the server
 npm run dev
@@ -56,6 +56,7 @@ Future Improvements
 - Connect to a database (SQLite / MongoDB)  
 - Add ATM card animation UI  
 - Deploy on Vercel / Render for live demo  
-- Add Login & Register system (user authentication + new account creation)  
+- Add Login & Register system (user authentication + new account creation)
+  
 
 By: https://github.com/incesscainabenoja
