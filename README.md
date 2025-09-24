@@ -25,8 +25,8 @@ Features
 🚀 How to Run
 
 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/day-02-atm-gui.git
+```git clone
+https://github.com/incesscainabenoja/backend-daily-02-ATM-System-with-GUI
 cd day-02-atm-gui
 ```
 
